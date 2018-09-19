@@ -3,6 +3,7 @@ html {
 }
 
 body {
+    color:#122f3d;
     height: 100%;
     
 }
@@ -16,4 +17,10 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+.main{
+     background-image:url("https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41416318_2285076498175533_3213758194614534144_n.jpg?_nc_cat=0&oh=da51aa329f1fa1a3fee55cd2d92fd556&oe=5C36A58F");
+}
+.rightPlane{
+     background-image:url("https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40475462_2272832412733275_2601503863471079424_n.jpg?_nc_cat=0&oh=be476c4a6557baf958774739fa426c71&oe=5C2DF009");
 }
