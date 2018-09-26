@@ -37,3 +37,6 @@ justify-content:space-around;
     display:flex;
 justify-content:space-around;
 }
+.leftPane{
+font-size: 30px;
+}
