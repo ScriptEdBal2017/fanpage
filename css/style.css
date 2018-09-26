@@ -24,3 +24,16 @@ a {
 .rightPlane{
      background-image:url("https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40475462_2272832412733275_2601503863471079424_n.jpg?_nc_cat=0&oh=be476c4a6557baf958774739fa426c71&oe=5C2DF009");
 }
+
+.header{
+display:flex;
+justify-content:center;
+}
+.navbar{
+display:flex;
+justify-content:space-around;
+}
+.footer{
+    display:flex;
+justify-content:space-around;
+}
