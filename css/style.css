@@ -19,6 +19,8 @@ a {
     margin: 15px;
 }
 .main{
+    display:flex;
+    flex-wrap:wrap;
      background-image:url("https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41416318_2285076498175533_3213758194614534144_n.jpg?_nc_cat=0&oh=da51aa329f1fa1a3fee55cd2d92fd556&oe=5C36A58F");
 }
 .rightPlane{
@@ -37,8 +39,14 @@ justify-content:space-around;
     display:flex;
 justify-content:space-around;
 }
+
+.aboutMain{
+    display: flex;
+    
+}
 .leftPane{
 font-size: 30px;
+width:70%;
 }
 
 img{
@@ -48,4 +56,7 @@ width:250px;
 display:flex;
 flex-wrap:wrap;
 justify-content:space-between;
+}
+.rightPane{
+    width:70%;
 }
